@@ -7,7 +7,7 @@
 
 ### 🤝 Connect with me:
 
-<a href="www.linkedin.com/in/karthick-krishna-balaji"><img align="left" src="https://raw.githubusercontent.com/krishna1194/images/main/LinkedIn-Logo.wine.svg" alt="Karthick Krishna Balaji | LinkedIn" width="150px"/></a>
+<a href="https://www.linkedin.com/in/karthick-krishna-balaji/"><img align="left" src="https://raw.githubusercontent.com/krishna1194/images/main/LinkedIn-Logo.wine.svg" alt="Karthick Krishna Balaji | LinkedIn" width="150px"/></a>
 
 </br>
 </br>
