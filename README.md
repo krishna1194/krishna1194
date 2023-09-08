@@ -1,5 +1,5 @@
 # 👋 Hi all, I’m Karthick!
-- 📫 How to reach me: kbalaji2@ncsu.edu
+- 📫 How to reach me: krishna1194@gmail.com
 - 👀 I’m interested in learning, sharing, and growing together. 
 - 💼 I love the entire process of solving a business problem and embrace the challenge of finding a solution, either by working by myself or collaborating with others. 
 - 🌱 I’m currently pursuing a Master of Science in Analytics degree from North Carolina State University’s Institute for Advanced Analytics.
